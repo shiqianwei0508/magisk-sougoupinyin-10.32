@@ -1,6 +1,6 @@
 {
-  "version": "v2.0",
-  "versionCode": 10,
-  "zipUrl": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/install.zip",
-  "changelog": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/changelog.md"
+  "version": "v0.1",
+  "versionCode": 220609,
+  "zipUrl": "https://github.com/shiqianwei0508/magisk-sougoupinyin-10.32/releases/download/v0.1/magisk-sougoupinyin-10.32-v0.1.zip",
+  "changelog": "https://raw.githubusercontent.com/shiqianwei0508/magisk-sougoupinyin-10.32/changelog.md"
 }
